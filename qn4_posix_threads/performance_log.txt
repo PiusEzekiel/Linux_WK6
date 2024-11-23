@@ -1,0 +1,72 @@
+
+./single_threaded_sum run:
+When n = 400,
+ Program Output: Enter the value of n (200 < n <= 2000): Single-threaded sum: 80200
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./multi_threaded_sum run:
+When n = 400,
+ Program Output: Enter the value of n (200 < n <= 2000): Multi-threaded sum: 80200
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./single_threaded_sum run:
+When n = 800,
+ Program Output: Enter the value of n (200 < n <= 2000): Single-threaded sum: 320400
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./multi_threaded_sum run:
+When n = 800,
+ Program Output: Enter the value of n (200 < n <= 2000): Multi-threaded sum: 320400
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./single_threaded_sum run:
+When n = 1600,
+ Program Output: Enter the value of n (200 < n <= 2000): Single-threaded sum: 1280800
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./multi_threaded_sum run:
+When n = 1600,
+ Program Output: Enter the value of n (200 < n <= 2000): Multi-threaded sum: 1280800
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./single_threaded_sum run:
+When n = 2000,
+ Program Output: Enter the value of n (200 < n <= 2000): Single-threaded sum: 2001000
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
+
+./multi_threaded_sum run:
+When n = 2000,
+ Program Output: Enter the value of n (200 < n <= 2000): Multi-threaded sum: 2001000
+ CPU Usage:
+  CPU RealTime: 0 microseconds
+  System CPU Time: 0 microseconds
+  CPU UserTime: 0 microseconds
+  Total CPU Time: 0 microseconds
